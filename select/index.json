@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "オッドストーリー",
+  "base_artist": "KIYO",
+  "createdAt": "2025-12-01T21:46:58.245535Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オッドストーリー",
+      "artist": "キヨ",
+      "has_synced": false,
+      "path": "select/pl_01_オッドストーリー_キヨ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "オッドストーリー",
+      "artist": "キヨ",
+      "has_synced": false,
+      "path": "select/pl_02_オッドストーリー_キヨ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "オッドストーリー",
+      "artist": "キヨ",
+      "has_synced": false,
+      "path": "select/pl_03_オッドストーリー_キヨ.txt"
+    }
+  ]
+}
